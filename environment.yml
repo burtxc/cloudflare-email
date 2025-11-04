@@ -1,0 +1,2 @@
+NODE_VERSION: "20.18.0"
+BUILD_FLAGS: "--build-from-source"
