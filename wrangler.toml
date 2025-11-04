@@ -1,6 +1,5 @@
 name = "worker-email"
 main = "src/main.ts"
-compatibility_date = "2023-05-18"
 compatibility_flags = [ "nodejs_compat_v2" ]
 [env.production]
 
